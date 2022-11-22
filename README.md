@@ -21,5 +21,5 @@ npm start
 
 To Visit App:
 
-localhost:3000/...
+http://localhost:3000/
 
